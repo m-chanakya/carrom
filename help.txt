@@ -1,0 +1,39 @@
+README
+
+
+RULES & SCORING
+
+	1. You are supposed to pocket all coins of one color and the queen.
+           Which color is decided by which color you pocket first.
+
+	2. You will get 10 points for every coin of your color that you pocket and -5 for the other color or striker.
+   	   If you successfully pocket the queen you will get 50.
+   	   For every second spent in your turn, your score will decrease by 1.
+
+	3. There is a max and min power and angle with which you can hit the striker.
+
+	4. The striker is Blue in color. If there happens to be a coin on the line of play and the striker overlaps with it, the color of the striker will change to red and you 	   will not be able to hit it.
+
+	5. Once you finish your game, there will be a screen with the text "Play again? (y/n)" according to your response a new game will begin or the window will close
+
+
+
+Controls
+
+	KEYBOARD
+		1. Use "left" and "right" keys to move the striker
+		2. Keys 'a' and 'c' to rotate direction of striker. 
+		3. ”up" and "down" keys to change power of striker, which can be seen in the power meter.
+		4. Spacebar to initiate the striker.
+		5. “p” and “r” pauses and resumes the game.
+		6. “v” will generate an INSTANT REPLAY.
+		7. esc closes the screen
+		8. “y” and “n” to respond to "Play again? (y/n)"
+
+
+	MOUSE
+		1. Left click and drag the striker or move beneath the baseline to move the striker left and right.
+		2. Move mouse above the baseline to change the direction and power of the striker.
+		3. Left click at any point above the base line to initiate the strike.
+		4. Clicking outside the board will pause the game.
+		5. Clicking inside the board will resume the game.
